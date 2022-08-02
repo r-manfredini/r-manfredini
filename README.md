@@ -1,8 +1,8 @@
 ## Olá! Eu sou o Renan Silva 👋
 <div align="center">
   <a href="https://github.com/r-manfredini">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=r-manfredini&show_icons=true&theme=dracula&count_private=true"/>
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-manfredini&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="10em" src="https://github-readme-stats.vercel.app/api?username=r-manfredini&show_icons=true&theme=dracula&count_private=true"/>
+    <img height="10em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=r-manfredini&layout=compact&langs_count=7&theme=dracula"/>
   </a>
 </div>
 <div style="display: inline_block"><br>
