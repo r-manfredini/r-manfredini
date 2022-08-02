@@ -1,4 +1,4 @@
-### Olá! Eu sou o Renan Silva 👋
+## Olá! Eu sou o Renan Silva 👋
 
 <div align="center">
   <a href="https://github.com/r-manfredini">
