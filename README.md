@@ -9,7 +9,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" alt="Renan-html" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" alt="Renan-css" height="30" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="center" alt="Renan-js" height="30" width="40" />
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
+  <img align="right" alt="Renan-pic" height="150" style="border-radius:50px;" src="https://lh3.googleusercontent.com/-5MidfBjAuKOgDmI2GcDooK1sBQt_FCd2i6hiMrkqZoDVl78r0RkvB_3DAoPeKMPXDLfzq2BE_qViq2HfV505bh-9lqlBFbUsqjcuG5GWdxQ6S_PPgWJF25-ZOPmVTLu4reERB67_UJedQt941P2Ih96KqjnMDs2ugePJ7fhGThiO_878UI90ChWYQ_Emqs0jfZ8ha-M0FXLCGbNRfmmdzpZgl0xFEgq-vKG5xaXAFJB3cE75EzO0DdalEfUqPYcBRnIyC6LV56i5nEF7QSlKa19uhj9a2YDPhC50BaceQT0koGsHcitdS_bNtkkaC3eye8aH6nKnDHXGjQNqjurqC65fMikARlzpZR-I0KSuuw6VTauWkKSLGj7IN-z19jnnbGBWlyVhG3wbVXLDh4tDOfM4PbmRqB5hPnOQbAITca9iNOcfKUAhBstxCpnKtvJlkSON_-edHuzuE6y4dDRcMzbvK3o1w8nFcztBweEZQ7W98khgpsTcH4_GvMBCfGYQPsFX_BnTsb3ivJ4mIOPofrnhVNfY5lelw3lt1GGSCG7BUBYmScq9zi6fnx75XjauZUDmN6yUpah9Q0GY9wCn4lelNuDtg3kTtyhIoEBD0_vsAhm41KG5Qq5opDAZ-Ckb7iuZoDy3YajThaNJaXxW_vECQ7sIEXrWBV8HRclsWE0gMfEcf50csP62s9PgjjI1qDBJV1OKeSTKxncVkyOugb2-fmBoT0CaAyl8ZoyvKYOW-hwEEfnSbDgbhjq6hmVsGprRQoD4-Ybh4PmvFhYTGGd7b5XYIHCXN7yOL--0KEchhF2m1sK2gsFWMjZywS5UIx_m0WNWGQSPLQiGkc8P2Q5viCe4HTiZAK1Bu_Gba4=s600-no?authuser=1">
 </div>
   
   ##
