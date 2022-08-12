@@ -8,6 +8,11 @@
 
 ##
 
+## 🔭 O que você encontrará por aqui?
+Meus projetos pessoais para fins de estudo e portfólio em geral! 📚
+
+##
+
 <div style="display: inline_block"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" align="center" alt="Renan-html" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" align="center" alt="Renan-css" height="30" width="40"/>
